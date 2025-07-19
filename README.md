@@ -51,7 +51,7 @@ Seamless playlist transfers between YouTube and Spotify
 ## 🏆 Awards
 
 - **Lush Industry Project Winner**  
-  Led a cross‑disciplinary team to build an MVP POS solution for Lush Cosmetics  
+  Collaborated with a cross‑disciplinary team to build an MVP POS solution for Lush Cosmetics  
 
 ## 📫 How to Reach Me
 
