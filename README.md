@@ -1,8 +1,23 @@
-# Mason Stevenson
+<!-- START HEADER: Animated typing effect -->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=61DAFB&width=1000&fontSize=128&lines=Mason+Stevenson;Full-Stack+Developer)
+<!-- END HEADER -->
 
 **Software Developer** passionate about building full‑stack applications with modern tools and clean code
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mason-stevenson-software-engineer/) [![GitHub followers](https://img.shields.io/github/followers/mace-stev?label=Follow&logo=github)](https://github.com/mace-stev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mason-stevenson-software-engineer/)
+[![GitHub followers](https://img.shields.io/github/followers/mace-stev?label=Follow&logo=github)](https://github.com/mace-stev)
+
+---
+
+<!-- GITHUB STATS -->
+<p align="center">
+  <a href="https://github.com/mace-stev">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=mace-stev&show_icons=true&theme=radical&hide_border=true" alt="Mason's GitHub Stats" />
+  </a>
+  <a href="https://github.com/mace-stev">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mace-stev&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
@@ -59,3 +74,4 @@ Seamless playlist transfers between YouTube and Spotify
 - ☎️ 903‑576‑7757  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mason-stevenson-software-engineer/)  
 - 🔗 [GitHub](https://github.com/mace-stev)  
+
