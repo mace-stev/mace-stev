@@ -1,5 +1,8 @@
+
+
+
 <!-- START HEADER: Animated typing effect -->
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=61DAFB&width=1000&fontSize=128&lines=Mason+Stevenson;Full-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1500&color=61DAFB&width=600&height=100&size=50&lines=Mason+Stevenson;Full-Stack+Developer)
 <!-- END HEADER -->
 
 **Software Developer** passionate about building full‑stack applications with modern tools and clean code
