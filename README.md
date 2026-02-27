@@ -69,8 +69,8 @@ Contact to request setup:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mace-stev&show_icons=true&theme=radical&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mace-stev&layout=compact&theme=radical&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mace-stev&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mace-stev&layout=compact&theme=radical&hide_border=true&cache_seconds=7200" />
 </p>
 
 ---
