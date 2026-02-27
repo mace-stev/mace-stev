@@ -1,5 +1,5 @@
 <!-- Animated Header -->
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1500&color=61DAFB&width=700&height=100&size=40&lines=Mason+Stevenson;QA+Automation+%7C+Website+Reliability;Playwright+%7C+WordPress+%7C+CI)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&duration=4000&pause=1500&color=61DAFB&width=900&height=100&size=40&lines=Mason+Stevenson;QA+Automation+%7C+Website+Reliability;Playwright+%7C+WordPress+%7C+CI)
 
 **QA Automation Engineer** helping businesses prevent bugs, broken features, and costly website issues.
 
@@ -63,15 +63,6 @@ Contact to request setup:
 - PostgreSQL
 - HTML / CSS
 - WordPress
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mace-stev&show_icons=true&theme=radical&hide_border=true&cache_seconds=7200" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mace-stev&layout=compact&theme=radical&hide_border=true&cache_seconds=7200" />
-</p>
 
 ---
 
